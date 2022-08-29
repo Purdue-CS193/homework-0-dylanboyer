@@ -11,7 +11,9 @@ Everything below here are things I didn't feel like removing. This information i
 
 
 ```
-bump
+
+
+
 ```
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
