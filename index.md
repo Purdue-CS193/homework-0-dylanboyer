@@ -1,11 +1,19 @@
-## Welcome to GitHub Pages
-
 **HELLO!! WELCOME TO THE BEST WEBSITE EVER!!!!**
 My name is Dylan Boyer, a CS student here at Purdue. This website is NO LONGER BORING because I had added things to it!
 Fun fact: Did you know that the _only_ band to have ever performed live on all seven continents (yes! including Antartica!) is Metallica! They played for a ton of research scientists down there inside of a small dome in the Carlini Argentine Base in Antartica.
 **So awesome!**
-
 [Link to their performance:](https://www.youtube.com/watch?v=2Hi2u98VKxc)
+
+
+**Anyways I figured I should probably start the assignment now. Starting for real here below!**
+
+# Dylan's First CS193 Homework
+
+Some of my favorite things about CS193:
+- I like how it's only one credit hour!
+- I love how I get to learn more about my major!
+- I love how it'll help me transition into the CS program from scratch!
+
 
 Everything below here are things I didn't feel like removing. This information is valuable, so feel free to look at it if you want to learn how I formatted this site!
 
