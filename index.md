@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+**HELLO!! WELCOME TO THE BEST WEBSITE EVER!!!!**
+My name is Dylan Boyer, a CS student here at Purdue. This website is NO LONGER BORING because I had added things to it!
+Fun fact: Did you know that the _only_ band to have ever performed live on all seven continents (yes! including Antartica!) is Metallica! They played for a ton of research scientists down there inside of a small dome in the Carlini Argentine Base in Antartica.
+**So awesome!**
+
+[Link to their performance:](https://www.youtube.com/watch?v=2Hi2u98VKxc)
+
+Everything below here are things I didn't feel like removing. This information is valuable, so feel free to look at it if you want to learn how I formatted this site!
+
+
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
